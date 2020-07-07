@@ -1,15 +1,15 @@
-#Reading 01 summary
+# Reading 01 summary
 
-##HTML intro
+## HTML intro
 
-##HTML CH. 1
+## HTML CH. 1
 
-##HTML CH. 8
+## HTML CH. 8
 
-##HTML CH. 17
+## HTML CH. 17
 
-##HTML CH. 18
+## HTML CH. 18
 
-##JavaScript intro
+## JavaScript intro
 
-##JavaScript CH. 1
+## JavaScript CH. 1
