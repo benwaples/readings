@@ -16,5 +16,7 @@ HTML 5 is much simpler than previous HTML iterations, and at the same time, it a
 So far this text book is a great example of ch.18! Design helps a user navigate through the website and consume information easier/ quicker.
 
 ## JavaScript intro
+JavasScript is used to handle interactive elements of the website
 
 ## JavaScript CH. 1
+JS files (scripts or instructions) should work step by step and solve a problem. The document object model uses objects to and methods to handle the user interacting with the website. The webpage is made up up of a lot of nested nodes!
