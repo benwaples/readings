@@ -8,6 +8,6 @@
 
 
 ## JS CH. 2
-
+What a variable is, how it is used, and different ways to name it. Different data types and how they behave. Hacks when using variables. When to use arrays and how to access the array values. Operators and math operations. String concatenation.
 
 ## JS CH. 4
