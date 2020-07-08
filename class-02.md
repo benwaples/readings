@@ -2,7 +2,7 @@
 
 
 ## HTML CH.2 
-
+We covered more HTML tags for different uses like <blockquote> and <q>
 
 ## HTML CH. 10
 
