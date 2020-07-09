@@ -5,9 +5,9 @@
 list types 
 
 unordered lists start with a `<ul>` tag
-`<ul>
+<ul>
     <li>Unordered lists have bullets</li>
-</ul>`
+</ul>
 
 ordered list start with `<ol>` tag
 <ol>
@@ -18,12 +18,13 @@ ordered list start with `<ol>` tag
 </ol>
 
 definition lists start with a `<dl>`
-`<dl>
+<dl>
     <dt>dt is the tag for the definition term</dt>
     <dd>dd is the dag for the definition definition</dd>
-</dl>`
+</dl>
 
 ## HTML CH. 13
+Covering the box concept and the CSS rules to control it's dimensions and how to style it. Block elements go on top of each other (vertical), and inline elements go left to right. You can manipulate this in CSS. It is important to control the box to accommodate different screens so it is legible to everyone.
 
 
 ## JS CH. 4
