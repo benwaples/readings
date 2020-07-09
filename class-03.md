@@ -10,12 +10,12 @@ unordered lists start with a `<ul>` tag
 </ul>`
 
 ordered list start with `<ol>` tag
-`<ol>
+<ol>
     <li>Ordered lists have numbers</li>
     <ul>
         <li>this is an example of a nested list</li>
     </ul>
-</ol>`
+</ol>
 
 definition lists start with a `<dl>`
 `<dl>
