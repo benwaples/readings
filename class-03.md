@@ -2,7 +2,26 @@
 # Reading 03 summary
 
 ## HTML CH.3
+list types 
 
+unordered lists start with a `<ul>` tag
+`<ul>
+    <li>Unordered lists have bullets</li>
+</ul>`
+
+ordered list start with `<ol>` tag
+`<ol>
+    <li>Ordered lists have numbers</li>
+    <ul>
+        <li>this is an example of a nested list</li>
+    </ul>
+</ol>`
+
+definition lists start with a `<dl>`
+`<dl>
+    <dt>dt is the tag for the definition term</dt>
+    <dd>dd is the dag for the definition definition</dd>
+</dl>`
 
 ## HTML CH. 13
 
