@@ -1,7 +1,7 @@
 # Reading 04 summary
 
 ## HTML CH.4
-
+Using relative vs direct paths to links/ files. `./photos/.portlandbuilding.pdf` would be relative, and linking to another website would be direct? use `<a>` elements to create links. You can open a new window or tab with a link, open an email window, and link to another part of the same webpage and other webpages.
 
 ## HTML CH. 15
 
