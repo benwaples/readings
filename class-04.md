@@ -4,7 +4,7 @@
 Using relative vs direct paths to links/ files. `./photos/.portlandbuilding.pdf` would be relative, and linking to another website would be direct? use `<a>` elements to create links. You can open a new window or tab with a link, open an email window, and link to another part of the same webpage and other webpages.
 
 ## HTML CH. 15
-
+`<div>` is a common container when creating a large section to be grouped together. We covered relative, absolute, and fixed positioning. Use float to move items left or right, must use a width attribute. Use liquid layout for most webpages I assume. Designers keep pages about 1000px wide and put the most important stuff in the first 600px. `display: grid` gives you more control over the layout of the website. 
 
 ## JS CH. 3
 Functions perform a set of tasks. When the `return` keyword is used it will kick out of the function and return the value assigned to it. The syntax to declare a function is `function nameYourFunction(param1, param2) { code block to use youre params}`. Global variables are variables declared outside of the function. Local variables are variables declared inside the functions. Global take up memory, local are forgotten after they are used.
