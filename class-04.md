@@ -7,6 +7,7 @@
 
 
 ## JS CH. 3
+Functions perform a set of tasks. When the `return` keyword is used it will kick out of the function and return the value assigned to it. The syntax to declare a function is `function nameYourFunction(param1, param2) { code block to use youre params}`. Global variables are variables declared outside of the function. Local variables are variables declared inside the functions. Global take up memory, local are forgotten after they are used.
 
 
 ## Article '6 Reasons for Pair Programming'
