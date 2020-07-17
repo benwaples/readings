@@ -10,3 +10,4 @@ idk what `list-style: circle is`. Forms are displayed significantly different on
 
 
 ## JS CH 6
+the event tool is really useful! Event delegation seems cool, doesn't make much sense but thats okay. Maybe we are already doing it? All the different events that can happen are really cool specifically `focus` and `blur`. We use functions in our event handlers, but often times we put more as well. Wonder why that is.
