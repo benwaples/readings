@@ -8,7 +8,9 @@ Using relative vs direct paths to links/ files. `./photos/.portlandbuilding.pdf`
 
 ## HTML CH. 15 (again)
 HTML is a document of nested elements. Each element behaves as either a block element or inline:
+
 `block`
+
 `block`
 
 `inline` `inline`
