@@ -6,6 +6,15 @@ Using relative vs direct paths to links/ files. `./photos/.portlandbuilding.pdf`
 ## HTML CH. 15
 `<div>` is a common container when creating a large section to be grouped together. We covered relative, absolute, and fixed positioning. Use float to move items left or right, must use a width attribute. Use liquid layout for most webpages I assume. Designers keep pages about 1000px wide and put the most important stuff in the first 600px. `display: grid` gives you more control over the layout of the website. 
 
+## HTML CH. 15 (again)
+HTML is a document of nested elements. Each element behaves as either a block element or inline:
+`block`
+`block`
+
+`inline` `inline`
+
+Use CSS styles sheets (linked to the HTML document) to change layout and size of all the elements on the page. `Display: grid` is the best for getting the layout perfect. 
+
 ## JS CH. 3
 Functions perform a set of tasks. When the `return` keyword is used it will kick out of the function and return the value assigned to it. The syntax to declare a function is `function nameYourFunction(param1, param2) { code block to use youre params}`. Global variables are variables declared outside of the function. Local variables are variables declared inside the functions. Global take up memory, local are forgotten after they are used.
 
