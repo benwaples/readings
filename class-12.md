@@ -32,6 +32,7 @@ One that is really interesting is using imgs as repeating patterns. That is pret
 
 ## Drawing Text
 `fillText(text, x, y)` will fill the given `text` at the given location on the chart
+
 `strokeText(text, x, y)` will stroke the given `text` at the given location on the chart
 
 style the font the same way you would do it in CSS but `font = value`
