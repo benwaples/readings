@@ -22,3 +22,10 @@ strokes are bit more interesting:
 `fill()` will fill your current shape. You don't need to close the patch before hand... it'll do it for you
 
 the rest of the article combines these methods with others to create all sorts of shapes. Looks like there are a lot of shapes that it can create on top of being able to create anything with basic commands. 
+
+## Apply Styles and colors
+set the fill color with `fillStyle = color` and set the color for shape outlines with `strokeStyle = color`. This is done in the JS. The rest of the article goes into all the different ways to use style with `<chart>` tags.
+
+There are `lineCaps` for the ends of strokes.. how to make chevrons (sorta).
+
+One that is really interesting is using imgs as repeating patterns. That is pretty cool.
